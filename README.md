@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ananya-kalia
--     I'm in my first in  B.Tech CS course in UPES, Dehradun
-- 👀 I’m interested in coding.
+-  I'm in my first year in  B.Tech CS course in UPES, Dehradun
+- I’m interested in coding.
 - I'm currently learning github.
 - My hobbies are singing, painting.
  
