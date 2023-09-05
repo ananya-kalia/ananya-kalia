@@ -3,7 +3,7 @@
 - 👀 I’m interested in coding.
 - I'm currently learning github.
 - My hobbies are singing, painting.
-- 💞️ I’m looking to collaborate on 
+ 
   
 
 <!---
